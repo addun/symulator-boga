@@ -21,9 +21,9 @@ Program pozwala na przeprowadzenie symulacji łańcuchu pokarmowego występując
   * Jeśli masa spadnie poniżej określonej wartości, zwierzę zaczyna atakować (podąża do najbliższego zwierzęca, które może zjeść)
   * Jeżeli żaden z wyżej wymienionych warunków nie zostanie spełniony (brak występowania określonego gatunku w populacji) zwierzę porusza się losowo
   * W celu uniknięcia oscylowania masy wokół wartości *normalna waga* zastosowano [histerezę](https://pl.wikipedia.org/wiki/Histereza)
-  
-  ### ToDo
-  - [ ] Podział zwierząt ze względu na płeć
-  - [ ] Możliwość zmiany ustawień domyślnych z poziomu panelu 
-  - [ ] Statystki symulacji
-  - [ ] Automatyczne wprowadzanie kolejnych gatunków
+
+### ToDo
+- [ ] Podział zwierząt ze względu na płeć
+- [ ] Możliwość zmiany ustawień domyślnych z poziomu panelu 
+- [ ] Statystki symulacji
+- [ ] Automatyczne wprowadzanie kolejnych gatunków
