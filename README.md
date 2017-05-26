@@ -4,6 +4,9 @@ Projekt zrobiony na zaliczenia z przedmiotu programowanie obiektowe w C++. Proje
 ### Krótki opis
 Program pozwala na przeprowadzenie symulacji łańcuchu pokarmowego występującego w przyrodzie.
 
+![Interface programu]
+(https://github.com/addun/symulator-boga/blob/local/Screenshot.png?raw=true)
+
 ### Założenia
 * Każde z gatunków ma określone cechy
   * maksymalny wiek życia
